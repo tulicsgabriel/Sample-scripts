@@ -9,3 +9,5 @@ Txt files contain data as follows (f ->feature name):
 0    10   5    5
 1     9   3    4
 2     8   7    0
+
+confusion_matrix_3x3.py - Calculates metrics from 3x3 confusion matrices. Defined metrics: accuracy, error rate, recall (sensitivity), precision, specificity, F_score.
